@@ -54,8 +54,6 @@ A lightweight React app for managing employee tasks with role-based authenticati
 
 ## Development
 
-## Development
-
 ```bash
 # Install dependencies
 npm install
