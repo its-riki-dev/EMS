@@ -9,7 +9,6 @@ A lightweight React app for managing employee tasks with role-based authenticati
 - **Frontend**: React (via Vite)
 - **State Management**: React Hooks & Context API
 - **Persistence**: Browser LocalStorage
-- **Routing**: React Router (optional)
 
 ---
 
