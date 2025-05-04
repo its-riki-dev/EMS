@@ -26,8 +26,8 @@ A lightweight React app for managing employee tasks with role-based authenticati
 
 ## 👥 User Roles
 
-- Admin: Can assign tasks and view employee progress.
-- Employee: Can view assigned tasks, accept them, and mark them as completed.
+- **Admin**: Can assign tasks and view employee progress.
+- **Employee**: Can view assigned tasks, accept them, and mark them as completed.
 
 ---
 
